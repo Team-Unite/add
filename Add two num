@@ -12,7 +12,7 @@ public class Sum {
         System.out.print("Enter first number : ");
         int num1 = in.nextInt();
 
-        System.out.print("Enter Seco number : ");
+        System.out.print("Enter Second number : ");// M Dilshan Thalagahapitiya ITT/16/17/079
         int num2 = in.nextInt();
         
         
