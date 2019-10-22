@@ -15,8 +15,12 @@ public class Sum {
         System.out.print("Enter Second number : ");// M Dilshan Thalagahapitiya ITT/16/17/079
         int num2 = in.nextInt();
         
+        System.out.print("Enter third number : ");// M Dilshan Thalagahapitiya ITT/16/17/079
+        int num3 = in.nextInt();
         
-        int result = num1 + num2;
+        
+        
+        int result = num1 + num2+num3;
 
         
         System.out.println("Sum of " + num1 + " and " + num2 + " is : " + result);
