@@ -21,8 +21,10 @@ public class Sum {
         
         
         int result = num1 + num2+num3;
+        float average = result/2;
 
         
         System.out.println("Sum of " + num1 + " and " + num2 + " is : " + result);
+        System.out.println("avg of"+average);// kosala samapath itt/16/17/045
     }
 }
